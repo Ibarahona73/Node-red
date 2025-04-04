@@ -1,0 +1,2 @@
+FROM nodered/node-red:latest  # Usa la imagen oficial de Node-RED
+EXPOSE 1880                  # Abre el puerto 1880 (el de Node-RED)
